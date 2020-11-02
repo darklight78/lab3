@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> /*output file dia output2.out*/
 #include <stdlib.h>
 #include <errno.h>
 #include <signal.h>
